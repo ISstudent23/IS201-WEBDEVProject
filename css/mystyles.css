@@ -1,0 +1,58 @@
+.emphasizedtext{
+    color:darkgray;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.common{
+    color:black;
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+body{
+    background-color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title{
+    font-size: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.header{
+    background-color: black;
+    color:whitesmoke;
+    height: 100px;
+    line-height: 100px;
+}
+
+.cite{
+    color:darkgray;
+    text-decoration-line: underline;
+}
+
+.footer{
+    height: 25px;
+    background-color: black;
+    color:whitesmoke;
+    position:fixed;
+    bottom: 0px;
+    right: 7px;
+    left: 7px;
+}
